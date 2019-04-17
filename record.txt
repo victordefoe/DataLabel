@@ -1,0 +1,7 @@
+
+
+
+ffmpeg 已经被下载到了
+C:\Users\Lenovo\AppData\Local\imageio\ffmpeg\ffmpeg-win32-v3.2.4.exe.
+
+
